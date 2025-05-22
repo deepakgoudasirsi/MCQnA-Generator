@@ -77,7 +77,7 @@ MCQnA-Generator/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/deepakgoudasirsi/MCQnA-Generator.git
-   cd email-guardian-ai
+   cd MCQnA-Generator
    ```
 ---
 
