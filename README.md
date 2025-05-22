@@ -68,3 +68,19 @@ MCQnA-Generator/
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project overview
 └── sample_docs/           # Sample input files (PDF/Doc/Text)
+
+
+---
+
+## How to Run
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/deepakgoudasirsi/MCQnA-Generator.git
+   cd email-guardian-ai
+
+---
+
+## Contact
+Deepak Gouda - [@deepakgoudasirsi](https://github.com/deepakgoudasirsi)
+Project Link: [https://github.com/deepakgoudasirsi/MCQnA-Generator](https://github.com/deepakgoudasirsi/MCQnA-Generator)
