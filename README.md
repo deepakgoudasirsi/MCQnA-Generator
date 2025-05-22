@@ -69,7 +69,7 @@ MCQnA-Generator/
 ├── README.md              # Project overview
 └── sample_docs/           # Sample input files (PDF/Doc/Text)
 
-
+```
 ---
 
 ## How to Run
@@ -78,7 +78,7 @@ MCQnA-Generator/
    ```bash
    git clone https://github.com/deepakgoudasirsi/MCQnA-Generator.git
    cd email-guardian-ai
-
+   ```
 ---
 
 ## Contact
